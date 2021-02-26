@@ -69,7 +69,7 @@ Python中有两种形式的注释：
 第一个Python程序 - hello, world
 
 Version: 0.1
-Author: 骆昊
+Author: Luckly
 """
 # print('hello, world')
 print("你好，世界！")

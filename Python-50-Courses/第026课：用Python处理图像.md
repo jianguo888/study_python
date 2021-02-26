@@ -64,7 +64,7 @@ Pillow中最为重要的是`Image`类，可以通过`Image`模块的`open`函数
 4. 缩放和黏贴图像
 
    ```Python
-   # 读取骆昊的照片获得Image对象
+   # 读取luckly的照片获得Image对象
    luohao_image = Image.open('luohao.png')
    # 读取吉多的照片获得Image对象
    guido_image = Image.open('guido.jpg')
@@ -72,7 +72,7 @@ Pillow中最为重要的是`Image`类，可以通过`Image`模块的`open`函数
    guido_head = guido_image.crop((80, 20, 310, 360))
    width, height = guido_head.size
    # 使用Image对象的resize方法修改图像的尺寸
-   # 使用Image对象的paste方法将吉多的头粘贴到骆昊的照片上
+   # 使用Image对象的paste方法将吉多的头粘贴到luckly的照片上
    luohao_image.paste(guido_head.resize((int(width / 1.5), int(height / 1.5))), (172, 40))
    luohao_image.show()
    ```
@@ -172,8 +172,24 @@ image.save('result.png')
 
 使用Python语言做开发，除了可以用Pillow来处理图像外，还可以使用更为强大的OpenCV库来完成图形图像的处理，OpenCV（**Open** Source **C**omputer **V**ision Library）是一个跨平台的计算机视觉库，可以用来开发实时图像处理、计算机视觉和模式识别程序。在我们的日常工作中，有很多繁琐乏味的任务其实都可以通过Python程序来处理，编程的目的就是让计算机帮助我们解决问题，减少重复乏味的劳动。通过本章节的学习，相信大家已经感受到了使用Python程序绘图P图的乐趣，其实Python能做的事情还远不止这些，继续你的学习吧。
 
-> **温馨提示**：学习中如果遇到困难，可以加**QQ交流群**询问。
->
-> 付费群：**789050736**，群一直保留，供大家学习交流讨论问题。
->
-> 免费群：**151669801**，仅供入门新手提问，定期清理群成员。
+# 作者介绍
+
+哔哩哔哩搜索“**Luckly年轻人** 主要发布文章包括，flutter，Vue，go，python，等技术，以及每月的读书笔记
+
+公众号：“萌小肆聊编程”
+
+自建博客：[https://luckly.work/](https://luckly.work/)
+
+哔哩哔哩：[https://space.bilibili.com/480883651](https://space.bilibili.com/480883651)
+
+CSDN:[https://blog.csdn.net/qq_39132095](https://blog.csdn.net/qq_39132095?spm=1001.2101.3001.5343)
+
+知乎：[https://www.zhihu.com/people/yimi-yang-guang-96-65](https://www.zhihu.com/people/yimi-yang-guang-96-65)
+
+简书：[https://www.jianshu.com/u/0c43689713e9](https://www.jianshu.com/u/0c43689713e9)
+
+掘金：[https://juejin.cn/user/3843548384077192](https://juejin.cn/user/3843548384077192)
+
+GitHub：[https://github.com/ITmxs](https://github.com/ITmxs)
+
+微信：xjg13690

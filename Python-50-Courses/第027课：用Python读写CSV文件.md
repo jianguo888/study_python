@@ -60,8 +60,24 @@ with open('scores.csv', 'r') as file:
 
 将来如果大家使用Python做数据分析，很有可能会用到名为`pandas`的三方库，它是Python数据分析的神器之一。`pandas`中封装了名为`read_csv`和`to_csv`的函数用来读写CSV文件，其中`read_CSV`会将读取到的数据变成一个`DataFrame`对象，而这个对象就是`pandas`库中最重要的类，它封装了一系列的方法用于对数据进行处理（清洗、转换、聚合等）；而`to_csv`会将`DataFrame`对象中的数据写入CSV文件，完成数据的持久化。
 
-> **温馨提示**：学习中如果遇到困难，可以加**QQ交流群**询问。
->
-> 付费群：**789050736**，群一直保留，供大家学习交流讨论问题。
->
-> 免费群：**151669801**，仅供入门新手提问，定期清理群成员。
+# 作者介绍
+
+哔哩哔哩搜索“**Luckly年轻人** 主要发布文章包括，flutter，Vue，go，python，等技术，以及每月的读书笔记
+
+公众号：“萌小肆聊编程”
+
+自建博客：[https://luckly.work/](https://luckly.work/)
+
+哔哩哔哩：[https://space.bilibili.com/480883651](https://space.bilibili.com/480883651)
+
+CSDN:[https://blog.csdn.net/qq_39132095](https://blog.csdn.net/qq_39132095?spm=1001.2101.3001.5343)
+
+知乎：[https://www.zhihu.com/people/yimi-yang-guang-96-65](https://www.zhihu.com/people/yimi-yang-guang-96-65)
+
+简书：[https://www.jianshu.com/u/0c43689713e9](https://www.jianshu.com/u/0c43689713e9)
+
+掘金：[https://juejin.cn/user/3843548384077192](https://juejin.cn/user/3843548384077192)
+
+GitHub：[https://github.com/ITmxs](https://github.com/ITmxs)
+
+微信：xjg13690

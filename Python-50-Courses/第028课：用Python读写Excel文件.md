@@ -193,8 +193,24 @@ wb_for_write.save('阿里巴巴2017年股票数据-2.xlsx')
 
 其他操作Excel文件的三方库（如`openpyxl`）大家有兴趣可以自行了解。掌握了Python程序操作Excel的方法，可以解决日常办公中很多繁琐的处理Excel电子表格工作，最常见就是将多个数据格式相同的Excel文件合并到一个文件以及从多个Excel文件或表单中提取指定的数据。当然，如果要对表格数据进行处理，使用Python数据分析神器之一的`pandas`库可能更为方便，因为`pandas`库封装的函数以及`DataFrame`类可以完成大多数数据处理的任务。本章例子中使用的Excel文件，大家可以从我的百度云盘链接中进行下载，地址：<https://pan.baidu.com/s/1rQujl5RQn9R7PadB2Z5g_g>，提取码：e7b4。
 
-> **温馨提示**：学习中如果遇到困难，可以加**QQ交流群**询问。
->
-> 付费群：**789050736**，群一直保留，供大家学习交流讨论问题。
->
-> 免费群：**151669801**，仅供入门新手提问，定期清理群成员。
+# 作者介绍
+
+哔哩哔哩搜索“**Luckly年轻人** 主要发布文章包括，flutter，Vue，go，python，等技术，以及每月的读书笔记
+
+公众号：“萌小肆聊编程”
+
+自建博客：[https://luckly.work/](https://luckly.work/)
+
+哔哩哔哩：[https://space.bilibili.com/480883651](https://space.bilibili.com/480883651)
+
+CSDN:[https://blog.csdn.net/qq_39132095](https://blog.csdn.net/qq_39132095?spm=1001.2101.3001.5343)
+
+知乎：[https://www.zhihu.com/people/yimi-yang-guang-96-65](https://www.zhihu.com/people/yimi-yang-guang-96-65)
+
+简书：[https://www.jianshu.com/u/0c43689713e9](https://www.jianshu.com/u/0c43689713e9)
+
+掘金：[https://juejin.cn/user/3843548384077192](https://juejin.cn/user/3843548384077192)
+
+GitHub：[https://github.com/ITmxs](https://github.com/ITmxs)
+
+微信：xjg13690

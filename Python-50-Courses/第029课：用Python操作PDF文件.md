@@ -133,8 +133,24 @@ doc.save()
 
 在学习完上面的内容之后，相信大家已经知道像合并多个PDF文件这样的工作应该如何用Python代码来处理了，赶紧自己动手试一试吧。
 
-> **温馨提示**：学习中如果遇到困难，可以加**QQ交流群**询问。
->
-> 付费群：**789050736**，群一直保留，供大家学习交流讨论问题。
->
-> 免费群：**151669801**，仅供入门新手提问，定期清理群成员。
+# 作者介绍
+
+哔哩哔哩搜索“**Luckly年轻人** 主要发布文章包括，flutter，Vue，go，python，等技术，以及每月的读书笔记
+
+公众号：“萌小肆聊编程”
+
+自建博客：[https://luckly.work/](https://luckly.work/)
+
+哔哩哔哩：[https://space.bilibili.com/480883651](https://space.bilibili.com/480883651)
+
+CSDN:[https://blog.csdn.net/qq_39132095](https://blog.csdn.net/qq_39132095?spm=1001.2101.3001.5343)
+
+知乎：[https://www.zhihu.com/people/yimi-yang-guang-96-65](https://www.zhihu.com/people/yimi-yang-guang-96-65)
+
+简书：[https://www.jianshu.com/u/0c43689713e9](https://www.jianshu.com/u/0c43689713e9)
+
+掘金：[https://juejin.cn/user/3843548384077192](https://juejin.cn/user/3843548384077192)
+
+GitHub：[https://github.com/ITmxs](https://github.com/ITmxs)
+
+微信：xjg13690
