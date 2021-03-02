@@ -1,5 +1,13 @@
 # Python 博客网站资源
 
+**最新版本**3.9.2
+
+中文文档：
+
+https://docs.python.org/zh-cn/3/
+
+
+
 - **本人编写的 Python 系列文章**
 
   本草根编写的 Python 文章，里面有各种例子代码
