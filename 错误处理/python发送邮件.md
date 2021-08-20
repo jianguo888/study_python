@@ -70,3 +70,62 @@ except smtplib.SMTPException as e:
 
 
 参考https://www.runoob.com/python/python-email.html
+
+![image-20210302215206642](https://luckly007.oss-cn-beijing.aliyuncs.com/image-20210302215206642.png)
+
+
+
+![image-20210302215443738](https://luckly007.oss-cn-beijing.aliyuncs.com/image-20210302215443738.png)
+
+发送带格式邮件
+
+![image-20210302215752809](https://luckly007.oss-cn-beijing.aliyuncs.com/image-20210302215752809.png)
+
+![image-20210302215845072](https://luckly007.oss-cn-beijing.aliyuncs.com/image-20210302215845072.png)
+
+![image-20210302220811647](https://luckly007.oss-cn-beijing.aliyuncs.com/image-20210302220811647.png)
+
+
+
+```python
+#!/usr/bin/env python3.9.2
+# -*- coding: utf-8 -*-
+# @Time    :  2021-03-02 22:09
+# @Author  : Luckly
+# @FileName: weixinglocal.py.py
+# @Software: PyCharm
+# @Blog    ：https://blog.csdn.net/qq_39132095
+from wxpy import *
+
+bot =Bot()
+
+my_frirnds=bot.friends(update=False)
+print(my_frirnds.stats_text())
+
+```
+
+
+
+![image-20210302221334387](https://luckly007.oss-cn-beijing.aliyuncs.com/image-20210302221334387.png)
+
+![image-20210302221424158](https://luckly007.oss-cn-beijing.aliyuncs.com/image-20210302221424158.png)
+
+钉钉机器人
+
+![image-20210302222328275](https://luckly007.oss-cn-beijing.aliyuncs.com/image-20210302222328275.png)
+
+is_at_all=true
+
+![image-20210302222439853](https://luckly007.oss-cn-beijing.aliyuncs.com/image-20210302222439853.png)
+
+![image-20210302224451386](https://luckly007.oss-cn-beijing.aliyuncs.com/image-20210302224451386.png)
+
+![image-20210302224641339](https://luckly007.oss-cn-beijing.aliyuncs.com/image-20210302224641339.png)
+
+![image-20210302225003226](https://luckly007.oss-cn-beijing.aliyuncs.com/image-20210302225003226.png)
+
+打开上班工具
+
+![image-20210302225432364](https://luckly007.oss-cn-beijing.aliyuncs.com/image-20210302225432364.png)
+
+![image-20210302225602425](https://luckly007.oss-cn-beijing.aliyuncs.com/image-20210302225602425.png)
